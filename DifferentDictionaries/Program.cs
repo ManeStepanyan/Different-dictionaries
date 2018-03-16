@@ -174,7 +174,7 @@ namespace DifferentDictionaries
             }
             deletionDictionary3.Stop();
             Console.WriteLine("Taken time in hash-table based dictionary for deletion in milliseconds is {0} ", deletionDictionary3.ElapsedMilliseconds);
-            //same for retireve
+            //same for retrieve
         }
     }
 }
